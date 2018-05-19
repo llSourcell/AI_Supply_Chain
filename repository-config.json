@@ -1,0 +1,42 @@
+[{
+  "repositories": [
+    "IBM-Cloud/logistics-wizard",
+    "IBM-Cloud/logistics-wizard-toolchain",
+    "IBM-Cloud/logistics-wizard-erp",
+    "IBM-Cloud/logistics-wizard-webui",
+    "IBM-Cloud/logistics-wizard-controller",
+    "IBM-Cloud/logistics-wizard-recommendation"
+  ],
+  "milestones": [
+    {
+      "title": "1/12 - Sprint",
+      "state": "closed",
+      "due_on": "2017-01-12T23:59:59Z"
+    },
+    {
+      "title": "1/26 - Sprint",
+      "state": "closed",
+      "due_on": "2017-01-26T23:59:59Z"
+    },
+    {
+      "title": "02/09 - Sprint",
+      "state": "closed",
+      "due_on": "2017-02-09T23:59:59Z"
+    },
+    {
+      "title": "02/23 - Sprint",
+      "state": "open",
+      "due_on": "2017-02-23T23:59:59Z"
+    },
+    {
+      "title": "03/09 - Sprint",
+      "state": "open",
+      "due_on": "2017-03-09T23:59:59Z"
+    },
+    {
+      "title": "03/23 - Sprint",
+      "state": "open",
+      "due_on": "2017-03-23T23:59:59Z"
+    }
+  ]
+}]
