@@ -1,4 +1,7 @@
-# Logistics Wizard Overview
+
+## Overview
+
+This is the code for [this](https://youtu.be/vwor9Fva1V4) video on Youtube by Siraj Raval about Supply Chains. 
 
 Logistics Wizard is a reimagined supply chain optimization system for the 21st century.
 
@@ -77,3 +80,8 @@ See [License.txt](License.txt) for license information.
 [erp_github_url]: https://github.com/IBM-Cloud/logistics-wizard-erp
 [recommendation_github_url]: https://github.com/IBM-Cloud/logistics-wizard-recommendation
 [toolchain_github_url]: https://github.com/IBM-Cloud/logistics-wizard-toolchain
+
+
+## Credits
+
+Credit for the code goes to IBM. I've merely created a wrapper to get people started.
